@@ -43,15 +43,15 @@ This is a **client-server** application with the following components:
 
 ### Setup Instructions
 
-1. Clone the repository
-2. Start the RMI Registry
-3. Run the Server
+1. *Clone the repository*
+2. *Start the RMI Registry*
+3. *Run the Server* :
      Compile and start the server to bind remote objects to the RMI registry.
 
-4. Run the Client
+4. *Run the Client* :
      Connects to the RMI registry and invokes methods on the remote server.
 
-5. Database Configuration
+5. *Database Configuration* :
      Configure hibernate.cfg.xml with your database connection details.
 
 
