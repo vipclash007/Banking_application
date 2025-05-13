@@ -1,0 +1,4 @@
+com\banking\common\model\Account.class
+com\banking\common\services\BankService.class
+com\banking\common\model\Transaction.class
+com\banking\common\model\Transaction$TransactionType.class
