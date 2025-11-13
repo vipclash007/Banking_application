@@ -1,4 +1,4 @@
-# Distributed Banking Application
+# Banking Application
 
 This project is a secure, scalable distributed banking application.
 - **Java RMI (Remote Method Invocation)** for secure communication between client and server.
